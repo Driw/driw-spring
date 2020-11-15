@@ -15,6 +15,7 @@
     <version>0.1.0</version>
     <name>Driw Spring</name>
     <description>Spring boot main application implements that start a service and keep a infinite loop</description>
+    <packaging>pom</packaging>
 
     <properties>
         <!-- General -->
